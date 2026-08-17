@@ -12,7 +12,7 @@ function App() {
       </h1>
 
       <div className="max-w-xl mx-auto">
-        <Card title={"Muhammad Ali doing DevWeekend task"} token={"#007"} price={"0.05"} />
+        <Card title={"Muhammad Ali doing DevWeekend task"} token={"#007"} />
       </div>
     </div>
   )
